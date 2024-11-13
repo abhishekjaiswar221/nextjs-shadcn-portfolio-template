@@ -16,8 +16,7 @@ const projects = [
     title: "Appie Family",
     description:
       "Shared grocery list app for households. Let your family add items to the list and see them in real-time.",
-    image:
-      "https://source.unsplash.com/a-mother-unpacking-local-food-in-zero-waste-packaging-from-bag-with-help-of-daughter-in-kitchen-at-home-mG9ACs8XFTE",
+    image: "/images/placeholder.jpg",
     website: "https://appie.joeribreedveld.com/",
     github: "https://github.com/joeribreedveld/appie-family2",
     visibility: "private",
@@ -26,8 +25,7 @@ const projects = [
     title: "Martial Arts Amsterdam",
     description:
       "An online platform for discovering and promoting martial arts dojos and workshops in Amsterdam.",
-    image:
-      "https://source.unsplash.com/boy-doing-karate-routines-during-golden-hour-igLzPKOvZNw",
+    image: "/images/placeholder.jpg",
     website: "https://martialartsamsterdam.com/",
     github: "https://github.com/joeribreedveld/martial-arts-amsterdam",
     visibility: "private",
@@ -36,8 +34,7 @@ const projects = [
     title: "Hair Calendar",
     description:
       "Track your hair wash days and adjust your hair routine based on a personalized calendar.",
-    image:
-      "https://source.unsplash.com/a-woman-getting-her-hair-cut-by-a-hair-stylist-Md_DhaFsnCQ",
+    image: "/images/placeholder.jpg",
     website: "https://haircalendar.vercel.app",
     github: "https://github.com/joeribreedveld/hair-calendar",
     visibility: "public",
